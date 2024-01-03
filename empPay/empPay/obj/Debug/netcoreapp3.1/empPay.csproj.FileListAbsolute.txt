@@ -1,0 +1,13 @@
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\bin\Debug\netcoreapp3.1\empPay.exe
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\bin\Debug\netcoreapp3.1\empPay.deps.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\bin\Debug\netcoreapp3.1\empPay.runtimeconfig.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\bin\Debug\netcoreapp3.1\empPay.runtimeconfig.dev.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\bin\Debug\netcoreapp3.1\empPay.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\bin\Debug\netcoreapp3.1\empPay.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\obj\Debug\netcoreapp3.1\empPay.csprojAssemblyReference.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\obj\Debug\netcoreapp3.1\empPay.AssemblyInfoInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\obj\Debug\netcoreapp3.1\empPay.AssemblyInfo.cs
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\obj\Debug\netcoreapp3.1\empPay.csproj.CoreCompileInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\obj\Debug\netcoreapp3.1\empPay.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\obj\Debug\netcoreapp3.1\empPay.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 4\empPay\empPay\obj\Debug\netcoreapp3.1\empPay.genruntimeconfig.cache
