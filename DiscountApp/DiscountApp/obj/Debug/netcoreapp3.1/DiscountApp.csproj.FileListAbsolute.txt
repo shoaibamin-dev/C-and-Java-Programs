@@ -1,0 +1,12 @@
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\bin\Debug\netcoreapp3.1\DiscountApp.exe
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\bin\Debug\netcoreapp3.1\DiscountApp.deps.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\bin\Debug\netcoreapp3.1\DiscountApp.runtimeconfig.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\bin\Debug\netcoreapp3.1\DiscountApp.runtimeconfig.dev.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\bin\Debug\netcoreapp3.1\DiscountApp.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\bin\Debug\netcoreapp3.1\DiscountApp.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\obj\Debug\netcoreapp3.1\DiscountApp.AssemblyInfoInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\obj\Debug\netcoreapp3.1\DiscountApp.AssemblyInfo.cs
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\obj\Debug\netcoreapp3.1\DiscountApp.csproj.CoreCompileInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\obj\Debug\netcoreapp3.1\DiscountApp.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\obj\Debug\netcoreapp3.1\DiscountApp.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 1\DiscountApp\DiscountApp\obj\Debug\netcoreapp3.1\DiscountApp.genruntimeconfig.cache
