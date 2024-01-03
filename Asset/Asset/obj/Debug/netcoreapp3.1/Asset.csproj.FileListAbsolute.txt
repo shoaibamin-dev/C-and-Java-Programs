@@ -1,0 +1,11 @@
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\bin\Debug\netcoreapp3.1\Asset.exe
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\bin\Debug\netcoreapp3.1\Asset.deps.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\bin\Debug\netcoreapp3.1\Asset.runtimeconfig.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\bin\Debug\netcoreapp3.1\Asset.runtimeconfig.dev.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\bin\Debug\netcoreapp3.1\Asset.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\bin\Debug\netcoreapp3.1\Asset.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\obj\Debug\netcoreapp3.1\Asset.csprojAssemblyReference.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\obj\Debug\netcoreapp3.1\Asset.AssemblyInfoInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\obj\Debug\netcoreapp3.1\Asset.AssemblyInfo.cs
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\obj\Debug\netcoreapp3.1\Asset.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Asset\Asset\obj\Debug\netcoreapp3.1\Asset.pdb

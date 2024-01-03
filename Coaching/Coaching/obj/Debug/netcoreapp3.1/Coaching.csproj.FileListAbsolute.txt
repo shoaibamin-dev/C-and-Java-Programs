@@ -1,0 +1,11 @@
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\bin\Debug\netcoreapp3.1\Coaching.exe
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\bin\Debug\netcoreapp3.1\Coaching.deps.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\bin\Debug\netcoreapp3.1\Coaching.runtimeconfig.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\bin\Debug\netcoreapp3.1\Coaching.runtimeconfig.dev.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\bin\Debug\netcoreapp3.1\Coaching.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\bin\Debug\netcoreapp3.1\Coaching.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\obj\Debug\netcoreapp3.1\Coaching.csprojAssemblyReference.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\obj\Debug\netcoreapp3.1\Coaching.AssemblyInfoInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\obj\Debug\netcoreapp3.1\Coaching.AssemblyInfo.cs
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\obj\Debug\netcoreapp3.1\Coaching.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 2\Coaching\Coaching\obj\Debug\netcoreapp3.1\Coaching.pdb

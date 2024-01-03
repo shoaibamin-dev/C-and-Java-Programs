@@ -1,0 +1,13 @@
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\bin\Debug\netcoreapp3.1\FindIntType.exe
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\bin\Debug\netcoreapp3.1\FindIntType.deps.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\bin\Debug\netcoreapp3.1\FindIntType.runtimeconfig.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\bin\Debug\netcoreapp3.1\FindIntType.runtimeconfig.dev.json
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\bin\Debug\netcoreapp3.1\FindIntType.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\bin\Debug\netcoreapp3.1\FindIntType.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\obj\Debug\netcoreapp3.1\FindIntType.csprojAssemblyReference.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\obj\Debug\netcoreapp3.1\FindIntType.AssemblyInfoInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\obj\Debug\netcoreapp3.1\FindIntType.AssemblyInfo.cs
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\obj\Debug\netcoreapp3.1\FindIntType.csproj.CoreCompileInputs.cache
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\obj\Debug\netcoreapp3.1\FindIntType.dll
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\obj\Debug\netcoreapp3.1\FindIntType.pdb
+C:\Users\18845781\OneDrive - Curtin University of Technology Australia\ISYS2011 - Business Application Development\Projects\Module 3\FindIntType\FindIntType\obj\Debug\netcoreapp3.1\FindIntType.genruntimeconfig.cache
